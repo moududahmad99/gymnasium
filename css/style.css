@@ -1,0 +1,46 @@
+/* Common CSS Start */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  vertical-align: middle;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  line-height: 0.8;
+  margin: 0;
+}
+/* Common CSS End */
+
+/* Navbar Area Start */
+/* Navbar Area End */
+
+/* Banner Area Start */
+/* Banner Area End */
+
+/* About Area Start */
+/* About Area End */
+
+/* Contact Area Start */
+/* Contact Area End */
+
+/* Footer Area Start */
+/* Footer Area End */
