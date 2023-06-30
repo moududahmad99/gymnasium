@@ -1,1 +1,1 @@
-# gynasium
+# gymnasium
